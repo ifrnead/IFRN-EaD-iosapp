@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="47px" viewBox="0 0 40 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>bell_L</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="line-icons" sketch:type="MSLayerGroup" transform="translate(-404.000000, -105.000000)" fill="#900C21">
+            <g id="row-2-line-icons" transform="translate(0.000000, 104.000000)" sketch:type="MSShapeGroup">
+                <path d="M422.924271,7.04382324 C416.247826,7.59010489 411,13.1760266 411,19.9946318 L411,27 C411,30.1194392 404,38.4211025 404,38.4211025 L404,43 L444,43 L444,38.4211025 C444,38.4211025 437,30.8469278 437,27 C437,20.3333333 437,20.0047427 437,20.0047427 C437,13.1589479 431.713776,7.54860229 425,7.03788812 L425,1.99801449 C425,1.44682631 424.556135,1 424,1 C423.447715,1 422.993752,1.45426905 422.986273,1.99801449 L422.91687,7.04382324 L422.924271,7.04382324 Z M424,9 C417.924868,9 413,13.9333984 413,19.9999744 C413,19.9999744 413,24.6959872 413,27.0488834 C413,31.001215 405.955322,39.0231323 405.955322,39.0231323 L405.955322,41 L442.035646,41 L442.035646,39.0231323 C442.035646,39.0231323 435,31.5011635 435,27.0488834 C435,20.9800277 435,20.0091057 435,20.0091057 C435,13.9289445 430.076468,9 424,9 Z M420,44 C420,46.2091391 421.790861,48 424,48 C426.209139,48 428,46.2091391 428,44" id="bell_L"></path>
+            </g>
+        </g>
+    </g>
+</svg>

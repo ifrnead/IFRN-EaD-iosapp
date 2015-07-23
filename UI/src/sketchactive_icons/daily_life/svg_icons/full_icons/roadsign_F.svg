@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="43px" height="48px" viewBox="0 0 43 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>roadsign_F</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="full-icons" sketch:type="MSLayerGroup" transform="translate(-502.000000, -304.000000)" fill="#900C21">
+            <g id="row-4-full-icons" transform="translate(0.000000, 302.000000)" sketch:type="MSShapeGroup">
+                <path d="M508.951221,8.99890137 L508.951221,17 L538.989745,17 C538.989745,17 544.813224,14.1617365 544.813224,12.968976 C544.813224,11.7762156 538.989745,8.99890137 538.989745,8.99890137 L508.951221,8.99890137 Z M524,2 C522.895431,2 522,2.89826062 522,3.99791312 L522,8 L526,8 L526,3.99791312 C526,2.89449617 525.11227,2 524,2 Z M508.95122,20.992278 C508.95122,20.992278 502.645626,23.9334908 502.645625,24.9667454 C502.645625,26 508.951221,29.0361633 508.951221,29.0361633 L538.989745,29.0361633 L538.989745,20.992278 L508.95122,20.992278 Z M522,18 L522,20 L526,20 L526,18 L522,18 Z M522,30 L522,48.0092049 C522,49.1086907 522.88773,50 524,50 L524,50 C525.104569,50 526,49.1017876 526,48.0092049 L526,30 L522,30 Z" id="roadsign_F"></path>
+            </g>
+        </g>
+    </g>
+</svg>

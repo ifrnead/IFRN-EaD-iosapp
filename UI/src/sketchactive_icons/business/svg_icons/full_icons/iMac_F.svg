@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="36px" viewBox="0 0 40 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>iMac_F</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="full-icons" sketch:type="MSLayerGroup" transform="translate(-302.000000, -407.000000)" fill="#8B572A">
+            <g id="row-5-full-icons" transform="translate(1.000000, 400.000000)" sketch:type="MSShapeGroup">
+                <path d="M319,40.9966755 L317.003912,40.9966755 C317.003912,40.9966755 317.003912,35 317.003912,35 C317.003913,35 302.994548,35 302.994548,35 C301.894732,35 301,34.102384 301,32.9951185 C301,32.9951185 301,30 301,30 C301,30 341,30 341,30 L341,32.9951185 C341,34.1061002 340.107183,35 339.005838,35 L324.999186,35 L324.999186,40.9966755 L323,40.9966755 L323,35 L319,35 L319,40.9966755 L319,40.9966755 Z M314.000872,41 C313.448106,41 313,41.4438648 313,42 C313,42.5522847 313.444631,43 314.000872,43 L327.999128,43 C328.551894,43 329,42.5561352 329,42 C329,41.4477153 328.555369,41 327.999128,41 L314.000872,41 Z M302.997292,7 C301.894218,7 301,7.90234375 301,8.99456145 L301,28 L341,28 L341,8.99456145 C341,7.89299558 340.10846,7 339.002708,7 L302.997292,7 Z M321,33 C321.552285,33 322,32.5522848 322,32 C322,31.4477152 321.552285,31 321,31 C320.447715,31 320,31.4477152 320,32 C320,32.5522848 320.447715,33 321,33 Z" id="iMac_F"></path>
+            </g>
+        </g>
+    </g>
+</svg>

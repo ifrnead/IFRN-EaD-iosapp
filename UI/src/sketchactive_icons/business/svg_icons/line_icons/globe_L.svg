@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="38px" height="49px" viewBox="0 0 38 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>globe_L</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="line-icons" sketch:type="MSLayerGroup" transform="translate(-505.000000, -496.000000)" fill="#8B572A">
+            <g id="row-6-line-icons" transform="translate(18.000000, 496.000000)" sketch:type="MSShapeGroup">
+                <path d="M508,36 C517.388841,36 525,28.3888412 525,19 C525,9.61115879 517.388841,2 508,2 C498.611159,2 491,9.61115879 491,19 C491,28.3888412 498.611159,36 508,36 Z M508,34 C516.284272,34 523,27.2842717 523,19 C523,10.7157283 516.284272,4 508,4 C499.715728,4 493,10.7157283 493,19 C493,27.2842717 499.715728,34 508,34 Z M501,47 L501,49 L515,49 L515,47 L501,47 Z M515.261477,26.5228134 L521.119972,35.3981284 C517.525551,38.2777213 512.963906,40 508,40 C496.40202,40 487,30.5979803 487,19 C487,10.9914833 491.482916,4.03000786 498.076244,0.488079204 L499.183262,2.16515398 C493.129476,5.34216686 489,11.6888379 489,19 C489,29.4934108 497.506589,38 508,38 C512.554548,38 516.7348,36.3974457 520.007643,33.7254486 L515.261477,26.5228134 Z M507,40 L507,47 L509,47 L509,40 L507,40 Z" id="globe_L"></path>
+            </g>
+        </g>
+    </g>
+</svg>

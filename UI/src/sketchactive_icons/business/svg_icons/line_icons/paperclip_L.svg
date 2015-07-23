@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="50px" viewBox="0 0 24 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>paperclip_L</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="line-icons" sketch:type="MSLayerGroup" transform="translate(-311.000000, -98.000000)" fill="#8B572A">
+            <g id="row-2-line-icons" transform="translate(8.000000, 98.000000)" sketch:type="MSShapeGroup">
+                <path d="M320.980911,38.0994862 C320.980911,38.0994862 320.636446,44.0446995 314.991606,44.0446995 C309.463202,44.0446995 308.952393,38.0994862 308.952393,38.0994862 L308.952393,15.0639895 L306.983643,15.0639895 C306.983643,15.0639895 306.98142,37.8334488 306.983643,38.0994862 C306.999993,40.0570017 308.608106,45.9964492 315.141103,45.9964512 C322.660172,45.996455 322.984375,38.0994862 322.984375,38.0994862 L322.984375,10 C322.984375,10 321.941774,-2.81284338e-06 313.007256,-3.03543857e-10 C304.072737,2.8122364e-06 303,10 303,10 L303,40 C303,40 304.796186,49.9999967 315.141103,50 C325.486019,50.0000038 326.983212,40 326.983212,40 L326.983212,15.0639895 L325,15.0639895 L325,40 C325,40 323.505295,48.065258 315.141103,48.0652542 C306.653116,48.0652515 305,40 305,40 L305,10 C305,10 305.753887,1.97678163 313.007256,1.97677935 C320.260624,1.97677708 320.980911,10 320.980911,10 L320.980911,38.0994862 Z" id="paperclip_L"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>plus_L</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="line-icons" sketch:type="MSLayerGroup" transform="translate(-200.000000, -301.000000)" fill="#FFFFFF">
+            <g id="row-4-L" transform="translate(0.000000, 301.000000)" sketch:type="MSShapeGroup">
+                <path d="M224,24 L224,13 L226,13 L226,24 L237,24 L237,26 L226,26 L226,37 L224,37 L224,26 L213,26 L213,24 L224,24 Z M225,50 C238.807119,50 250,38.8071194 250,25 C250,11.1928806 238.807119,0 225,0 C211.192881,0 200,11.1928806 200,25 C200,38.8071194 211.192881,50 225,50 Z M225,48 C237.70255,48 248,37.7025499 248,25 C248,12.2974501 237.70255,2 225,2 C212.29745,2 202,12.2974501 202,25 C202,37.7025499 212.29745,48 225,48 Z" id="plus_L"></path>
+            </g>
+        </g>
+    </g>
+</svg>

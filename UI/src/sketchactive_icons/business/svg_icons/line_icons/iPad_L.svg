@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="42px" viewBox="0 0 30 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>iPad_L</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="line-icons" sketch:type="MSLayerGroup" transform="translate(-409.000000, -401.000000)" fill="#8B572A">
+            <g id="row-5-line-icons" transform="translate(0.000000, 396.000000)" sketch:type="MSShapeGroup">
+                <path d="M410.991617,5 C409.891677,5 409,5.89666034 409,6.99749218 L409,45.0025078 C409,46.1056923 409.89784,47 410.991617,47 L437.008383,47 C438.108323,47 439,46.1033397 439,45.0025078 L439,6.99749218 C439,5.89430771 438.10216,5 437.008383,5 L410.991617,5 Z M411,7 L411,42 L437,42 L437,7 L411,7 Z M424,45 C424.552285,45 425,44.5522848 425,44 C425,43.4477152 424.552285,43 424,43 C423.447715,43 423,43.4477152 423,44 C423,44.5522848 423.447715,45 424,45 Z" id="iPad_L"></path>
+            </g>
+        </g>
+    </g>
+</svg>

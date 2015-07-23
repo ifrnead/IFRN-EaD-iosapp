@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="44px" height="29px" viewBox="0 0 44 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>tea_F</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="full-icons" sketch:type="MSLayerGroup" transform="translate(-201.000000, -317.000000)" fill="#8B572A">
+            <g id="row-4-full-icons" transform="translate(0.000000, 300.000000)" sketch:type="MSShapeGroup">
+                <path d="M201,44 C201,44 201,45 201,45 C201,45.5522848 201.443262,46 201.996782,46 L242.003218,46 C242.553725,46 243,45.5561352 243,45 C243,45 243,44 243,44 C243,44 201,44 201,44 Z M235,33.4722131 L235,35.0047247 C235,39.4121089 231.420393,43 227.004725,43 L216.995275,43 C212.587891,43 209,39.4203933 209,35.0047247 C209,35.0047247 209,17 209,17 C209,17 235,17 235,17 L235,24.5277869 C236.061513,23.5777071 237.463291,23 239,23 C242.313709,23 245,25.6862914 245,29 C245,32.3137087 242.313709,35 239,35 C237.463291,35 236.061513,34.4222929 235,33.4722131 Z M211,19 L211,23 L233,23 L233,19 L211,19 Z M239,33 C241.209139,33 243,31.2091391 243,29 C243,26.7908609 241.209139,25 239,25 C236.790861,25 235,26.7908609 235,29 C235,31.2091391 236.790861,33 239,33 Z" id="tea_F"></path>
+            </g>
+        </g>
+    </g>
+</svg>

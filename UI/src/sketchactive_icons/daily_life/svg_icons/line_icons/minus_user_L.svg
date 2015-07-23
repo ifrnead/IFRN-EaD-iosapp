@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="41px" viewBox="0 0 48 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>minus_user_L</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="line-icons" sketch:type="MSLayerGroup" transform="translate(-101.000000, -503.000000)" fill="#900C21">
+            <g id="row-6-line-icons" transform="translate(1.000000, 503.000000)" sketch:type="MSShapeGroup">
+                <path d="M123,24 C128.522848,24 133,18.6274173 133,12 C133,5.37258267 128.522848,0 123,0 C117.477152,0 113,5.37258267 113,12 C113,18.6274173 117.477152,24 123,24 Z M123,22 C127.418278,22 131,17.5228478 131,12 C131,6.47715223 127.418278,2 123,2 C118.581722,2 115,6.47715223 115,12 C115,17.5228478 118.581722,22 123,22 Z M127.155263,37.9259968 L127.155263,40 L147.155263,40 L147.155263,37.9259968 L127.155263,37.9259968 Z M133.046668,27.4528129 C130.011207,26.5220976 126.602316,26 123,26 C110.29745,26 100,32.4918707 100,40.5 L101.774196,40.5258208 C101.774196,40.5258208 101.774196,38.352891 103.552048,35.6531894 C105.3299,32.9534879 109.478221,30.1879406 114,29.0685524 C118.521779,27.9491644 119.138338,27.7516253 123,27.7516251 C126.861662,27.7516248 131.602601,28.805167 131.602601,28.805167 L133.046669,29.0685525 L133.046668,27.4528129 Z" id="minus_user_L"></path>
+            </g>
+        </g>
+    </g>
+</svg>

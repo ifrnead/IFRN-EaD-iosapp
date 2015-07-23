@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="7706" systemVersion="14D136" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="Qar-YV-K51">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+    </dependencies>
+    <scenes>
+        <!--Main View Controller-->
+        <scene sceneID="WgJ-mX-Qx4">
+            <objects>
+                <tabBarController id="Qar-YV-K51" customClass="MainViewController" customModule="IFRN_EaD" customModuleProvider="target" sceneMemberID="viewController">
+                    <nil key="simulatedBottomBarMetrics"/>
+                    <tabBar key="tabBar" contentMode="scaleToFill" translucent="NO" id="EzB-f7-D7x">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="49"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="color" keyPath="tintColor">
+                                <color key="value" red="0.1960784314" green="0.39607843139999999" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </tabBar>
+                    <connections>
+                        <segue destination="TYF-MH-uQq" kind="relationship" relationship="viewControllers" id="KDx-fI-dJF"/>
+                        <segue destination="Ynf-oX-hkA" kind="relationship" relationship="viewControllers" id="Max-9r-x3m"/>
+                        <segue destination="5pm-OM-Uiu" kind="relationship" relationship="viewControllers" id="ErF-q9-Gk5"/>
+                    </connections>
+                </tabBarController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="rSf-rI-18O" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-72" y="82"/>
+        </scene>
+        <!--Novidades-->
+        <scene sceneID="pLa-gX-1nr">
+            <objects>
+                <navigationController id="TYF-MH-uQq" customClass="NovidadesViewController" customModule="IFRN_EaD" customModuleProvider="target" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Novidades" image="novidades-line" id="WDm-TN-EQW"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="dfe-GC-F4d">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="tintColor" red="0.1960784314" green="0.39607843139999999" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="ioe-kV-Pcw" kind="relationship" relationship="rootViewController" id="rZP-CG-jxM"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="q7U-4i-r3T" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="772" y="-680"/>
+        </scene>
+        <!--Web View Controller-->
+        <scene sceneID="JIw-n6-ofc">
+            <objects>
+                <viewController id="ioe-kV-Pcw" customClass="WebViewController" customModule="IFRN_EaD" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="K0F-1Q-FTT"/>
+                        <viewControllerLayoutGuide type="bottom" id="MRJ-hE-9gg"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="3cC-hN-k77">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="551"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <webView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Bi9-FL-sgW">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="551"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </webView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="Bi9-FL-sgW" firstAttribute="leading" secondItem="3cC-hN-k77" secondAttribute="leading" id="EOh-EE-eh2"/>
+                            <constraint firstItem="Bi9-FL-sgW" firstAttribute="top" secondItem="3cC-hN-k77" secondAttribute="top" id="bbQ-j7-Lro"/>
+                            <constraint firstAttribute="trailing" secondItem="Bi9-FL-sgW" secondAttribute="trailing" id="oB4-yf-SgP"/>
+                            <constraint firstAttribute="bottom" secondItem="Bi9-FL-sgW" secondAttribute="bottom" id="yll-Uc-ds9"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="j7U-DI-Dvv">
+                        <barButtonItem key="rightBarButtonItem" systemItem="refresh" id="jkn-bp-SUK">
+                            <connections>
+                                <action selector="reload:" destination="ioe-kV-Pcw" id="A8V-y2-yEq"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="string" keyPath="urlToLoad" value="http://ead.ifrn.edu.br/"/>
+                        <userDefinedRuntimeAttribute type="string" keyPath="titleToShow" value="Novidades"/>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <outlet property="web" destination="Bi9-FL-sgW" id="ZjE-m7-yIk"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="r8U-a8-ULm" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1608" y="-680"/>
+        </scene>
+        <!--Moodle-->
+        <scene sceneID="Ooc-ww-soP">
+            <objects>
+                <navigationController id="Ynf-oX-hkA" customClass="MoodleViewController" customModule="IFRN_EaD" customModuleProvider="target" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Moodle" image="moodle-line" id="qMi-17-hur"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="Y3i-UT-9AA">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="tintColor" red="0.1960784314" green="0.39607843139999999" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="nVY-7M-aGU" kind="relationship" relationship="rootViewController" id="foN-dj-Hbv"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="cjW-cQ-z8j" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="772" y="82"/>
+        </scene>
+        <!--SUAP-->
+        <scene sceneID="6pL-qZ-258">
+            <objects>
+                <navigationController id="5pm-OM-Uiu" customClass="SuapViewController" customModule="IFRN_EaD" customModuleProvider="target" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="SUAP" image="suap-line" id="oek-EY-PUH"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="K74-hx-gzC">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="tintColor" red="0.1960784314" green="0.39607843139999999" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="U0j-8h-prm" kind="relationship" relationship="rootViewController" id="luV-iG-pDu"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="t2P-i7-mRG" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="772" y="898"/>
+        </scene>
+        <!--Web View Controller-->
+        <scene sceneID="TS1-tn-gh1">
+            <objects>
+                <viewController id="nVY-7M-aGU" customClass="WebViewController" customModule="IFRN_EaD" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="3xC-zN-Piy"/>
+                        <viewControllerLayoutGuide type="bottom" id="0W1-ae-y7J"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="bQB-D4-1Df">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <webView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="XCv-mg-QSl">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </webView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="XCv-mg-QSl" firstAttribute="leading" secondItem="bQB-D4-1Df" secondAttribute="leading" id="FAK-kK-YQ2"/>
+                            <constraint firstAttribute="bottom" secondItem="XCv-mg-QSl" secondAttribute="bottom" id="OKG-P9-eYe"/>
+                            <constraint firstAttribute="trailing" secondItem="XCv-mg-QSl" secondAttribute="trailing" id="uaw-kx-k7w"/>
+                            <constraint firstItem="XCv-mg-QSl" firstAttribute="top" secondItem="bQB-D4-1Df" secondAttribute="top" id="vA1-os-V7Z"/>
+                        </constraints>
+                    </view>
+                    <toolbarItems/>
+                    <navigationItem key="navigationItem" id="fQz-1m-nUm">
+                        <barButtonItem key="rightBarButtonItem" systemItem="refresh" id="Vvp-rR-nRy">
+                            <connections>
+                                <action selector="reload:" destination="nVY-7M-aGU" id="jAF-k2-0uv"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                    <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="string" keyPath="urlToLoad" value="http://ead.ifrn.edu.br/ava/academico/"/>
+                        <userDefinedRuntimeAttribute type="string" keyPath="titleToShow" value="Moodle"/>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <outlet property="web" destination="XCv-mg-QSl" id="wmW-8o-Tae"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="zSk-d3-yJp" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1608" y="82"/>
+        </scene>
+        <!--Web View Controller-->
+        <scene sceneID="B3U-1e-UJ9">
+            <objects>
+                <viewController id="U0j-8h-prm" customClass="WebViewController" customModule="IFRN_EaD" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="sm2-ns-gmn"/>
+                        <viewControllerLayoutGuide type="bottom" id="4bt-oQ-9Kz"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="jHD-ZB-395">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <webView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="QHn-8B-MKh">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </webView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="QHn-8B-MKh" firstAttribute="top" secondItem="jHD-ZB-395" secondAttribute="top" id="O5n-Xc-Atk"/>
+                            <constraint firstAttribute="bottom" secondItem="QHn-8B-MKh" secondAttribute="bottom" id="lsM-ft-7GP"/>
+                            <constraint firstItem="QHn-8B-MKh" firstAttribute="leading" secondItem="jHD-ZB-395" secondAttribute="leading" id="rFO-WH-El1"/>
+                            <constraint firstAttribute="trailing" secondItem="QHn-8B-MKh" secondAttribute="trailing" id="tEy-bO-lKi"/>
+                        </constraints>
+                    </view>
+                    <toolbarItems/>
+                    <navigationItem key="navigationItem" id="bYL-F4-Oa0">
+                        <barButtonItem key="rightBarButtonItem" systemItem="refresh" id="c3r-jw-TNh">
+                            <connections>
+                                <action selector="reload:" destination="U0j-8h-prm" id="9Us-Vk-yEM"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
+                    <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="string" keyPath="urlToLoad" value="http://suap.ifrn.edu.br/"/>
+                        <userDefinedRuntimeAttribute type="string" keyPath="titleToShow" value="SUAP"/>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <outlet property="web" destination="QHn-8B-MKh" id="0n2-IF-0Li"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="MXs-Jt-GFu" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1608" y="898"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="moodle-line" width="22" height="22"/>
+        <image name="novidades-line" width="21" height="22"/>
+        <image name="suap-line" width="22" height="22"/>
+    </resources>
+</document>

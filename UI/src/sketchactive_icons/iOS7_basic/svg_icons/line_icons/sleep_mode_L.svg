@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>sleep_mode_L</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="line-icons" sketch:type="MSLayerGroup" transform="translate(-300.000000, -400.000000)" fill="#FFFFFF">
+            <g id="row-5-L" transform="translate(0.000000, 399.000000)" sketch:type="MSShapeGroup">
+                <path d="M325,51 C338.807119,51 350,39.8071194 350,26 C350,12.1928806 338.807119,1 325,1 C311.192881,1 300,12.1928806 300,26 C300,39.8071194 311.192881,51 325,51 Z M325,49 C337.70255,49 348,38.7025499 348,26 C348,13.2974501 337.70255,3 325,3 C312.29745,3 302,13.2974501 302,26 C302,38.7025499 312.29745,49 325,49 Z M338.975552,30.2667505 C336.894537,35.3885789 331.869015,39 326,39 C318.268013,39 312,32.7319869 312,25 C312,19.1309849 315.611421,14.1054629 320.733249,12.0244478 C319.020206,14.2264382 318,16.9940781 318,20 C318,27.1797021 323.820298,33 331,33 C334.005922,33 336.773562,31.9797943 338.975552,30.2667505 Z" id="sleep_mode_L"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>sleep_mode_F</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="full-icons" sketch:type="MSLayerGroup" transform="translate(-301.000000, -400.000000)" fill-opacity="0.9" fill="#FFFFFF">
+            <g id="row-5-F" transform="translate(0.000000, 396.000000)" sketch:type="MSShapeGroup">
+                <path d="M326,54 C339.807119,54 351,42.8071194 351,29 C351,15.1928806 339.807119,4 326,4 C312.192881,4 301,15.1928806 301,29 C301,42.8071194 312.192881,54 326,54 Z M339.975552,33.2667505 C337.894537,38.3885789 332.869015,42 327,42 C319.268013,42 313,35.7319869 313,28 C313,22.1309849 316.611421,17.1054629 321.733249,15.0244478 C320.020206,17.2264382 319,19.9940781 319,23 C319,30.1797021 324.820298,36 332,36 C335.005922,36 337.773562,34.9797943 339.975552,33.2667505 Z" id="sleep_mode_F"></path>
+            </g>
+        </g>
+    </g>
+</svg>

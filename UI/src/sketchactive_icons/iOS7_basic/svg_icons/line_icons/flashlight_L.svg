@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="21px" height="48px" viewBox="0 0 21 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>flashlight_L</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="line-icons" sketch:type="MSLayerGroup" transform="translate(-215.000000, -500.000000)" fill="#FFFFFF">
+            <g id="row-6-L" transform="translate(3.000000, 500.000000)" sketch:type="MSShapeGroup">
+                <path d="M212,6.04042578 C212,6.04042578 212,5.61081881e-08 212,2.94192667e-08 C212,1.51699985e-08 232.011396,-2.89759356e-08 232.011396,2.94192667e-08 L232.011396,5.91104224 C232.011396,5.91104235 227.133146,11.8507166 227.133146,11.8507166 L227.133146,48 L216.925069,47.9999995 L216.925068,11.8507166 L212,6.04042578 Z M214,1.98165321 L214,4.98165321 L230,4.98165321 L230,1.98165321 L214,1.98165321 Z M218.988861,11.0317702 C218.988861,11.0317702 215.489799,7.00545144 215.489799,7.00545144 C215.489799,7.00545144 228.455503,7.00545144 228.455503,7.00545144 L225.004373,11.0317702 L225.004373,42.0413706 L218.988861,42.0413706 L218.988861,11.0317702 Z M219,43.9816532 L219,45.9816532 L225,45.9816532 L225,43.9816532 L219,43.9816532 Z M222,25.9816532 C223.10457,25.9816532 224,25.0862228 224,23.9816532 C224,22.8770837 223.10457,21.9816532 222,21.9816532 C220.89543,21.9816532 220,22.8770837 220,23.9816532 C220,25.0862228 220.89543,25.9816532 222,25.9816532 Z" id="flashlight_L"></path>
+            </g>
+        </g>
+    </g>
+</svg>

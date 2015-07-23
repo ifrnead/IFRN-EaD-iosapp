@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="37px" viewBox="0 0 40 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>diamond_F</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="full-icons" sketch:type="MSLayerGroup" transform="translate(-310.000000, -113.000000)" fill="#900C21">
+            <g id="row-2-full-icons" transform="translate(6.000000, 104.000000)" sketch:type="MSShapeGroup">
+                <path d="M324,45.8162432 L331,23 L317,23 L324,45.8162432 Z M332.867778,23.015625 L342.408982,23.015625 L326.365868,43.9765549 L332.867778,23.015625 Z M314.890625,22.9913516 L321.617322,43.3829875 L305.685283,22.9913516 L314.890625,22.9913516 Z M324,10 L330,21 L318,21 L324,10 Z M337.776515,10.2700612 L343.386737,20.9999997 L333.425731,20.9999997 L337.776515,10.2700612 Z M331.692248,19.9787864 L336.207954,9 L325.718715,9 L331.692248,19.9787864 Z M315.873736,20.7186114 L322.409889,9 L312.968779,9 L315.873736,20.7186114 Z M310.997558,9.04690874 L314,21 L304.824524,21 L310.997558,9.04690874 Z" id="diamond_F"></path>
+            </g>
+        </g>
+    </g>
+</svg>

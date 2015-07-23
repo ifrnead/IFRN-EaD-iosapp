@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="32px" viewBox="0 0 50 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title> mail_L</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="line-icons" sketch:type="MSLayerGroup" transform="translate(-100.000000, -119.000000)" fill="#FFFFFF">
+            <g id="row-2-L" transform="translate(0.000000, 99.000000)" sketch:type="MSShapeGroup">
+                <path d="M100,20 L100,52 L150,52 L150,20 L100,20 Z M103.109874,21.8901265 L123.097291,41.8775437 C124.148128,42.928381 125.84696,42.9332931 126.907209,41.8730442 L146.890126,21.8901265 L103.109874,21.8901265 Z M148.468488,22.6914825 L148.500001,49.3085175 L135.175727,35.9842435 L148.468488,22.6914825 Z M101.771594,49.7059434 L101.740081,23.0889083 L115.064355,36.4131823 L101.771594,49.7059434 Z M122.56171,44.0122989 C123.204033,44.4768303 123.810667,44.8305546 125.027083,44.8271407 C126.243499,44.8237267 127.165802,44.175135 127.442921,43.9533843 C127.720039,43.7316335 133.96052,37.3732046 133.96052,37.3732046 L146.633179,50.045085 L103.914839,50.0450853 L116.30186,37.3732046 C116.30186,37.3732046 121.919387,43.5477675 122.56171,44.0122989 Z" id="-mail_L"></path>
+            </g>
+        </g>
+    </g>
+</svg>

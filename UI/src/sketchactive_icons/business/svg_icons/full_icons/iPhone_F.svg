@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="21px" height="41px" viewBox="0 0 21 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>iPhone_F</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="full-icons" sketch:type="MSLayerGroup" transform="translate(-512.000000, -404.000000)" fill="#8B572A">
+            <g id="row-5-full-icons" transform="translate(1.000000, 400.000000)" sketch:type="MSShapeGroup">
+                <path d="M514.008788,4 C512.34708,4 511,5.34083335 511,6.99821673 L511,42.0017833 C511,43.6576526 512.34559,45 514.008788,45 L528.991212,45 C530.65292,45 532,43.6591666 532,42.0017833 L532,6.99821673 C532,5.34234735 530.65441,4 528.991212,4 L514.008788,4 Z M513,8 L513,39 L530,39 L530,8 L513,8 Z M520.495389,6 C520.221793,6 520,6.23193359 520,6.5 C520,6.77614237 520.215753,7 520.495389,7 L522.504611,7 C522.778207,7 523,6.76806641 523,6.5 C523,6.22385763 522.784247,6 522.504611,6 L520.495389,6 Z M521.5,43 C522.328427,43 523,42.3284272 523,41.5 C523,40.6715728 522.328427,40 521.5,40 C520.671573,40 520,40.6715728 520,41.5 C520,42.3284272 520.671573,43 521.5,43 Z M514,9 L514,38 L529,38 L529,9 L514,9 Z" id="iPhone_F"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="34px" height="48px" viewBox="0 0 34 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>location_L</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="line-icons" sketch:type="MSLayerGroup" transform="translate(-107.000000, -305.000000)" fill="#900C21">
+            <g id="row-4-line-icons" transform="translate(0.000000, 302.000000)" sketch:type="MSShapeGroup">
+                <path d="M124,50.8446503 C128.041229,50.8446503 141,29.3888412 141,20 C141,10.6111588 133.388841,3 124,3 C114.611159,3 107,10.6111588 107,20 C107,29.3888412 119.958771,50.8446511 124,50.8446503 Z M124,48.9463043 C126.335094,48.9463043 139.025933,28.7513772 139.025934,20.1449394 C139.025934,11.4057388 132.284272,5 124,5 C115.715728,5 108.932686,11.557724 108.932685,20.1449394 C108.932685,28.7321548 121.471539,48.9463043 124,48.9463043 Z M124,26 C127.313709,26 130,23.3137087 130,20 C130,16.6862913 127.313709,14 124,14 C120.686291,14 118,16.6862913 118,20 C118,23.3137087 120.686291,26 124,26 Z M124,24 C126.209139,24 128,22.2091391 128,20 C128,17.7908609 126.209139,16 124,16 C121.790861,16 120,17.7908609 120,20 C120,22.2091391 121.790861,24 124,24 Z" id="location_L"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="39px" height="40px" viewBox="0 0 39 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>wrench_F</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="full-icons" sketch:type="MSLayerGroup" transform="translate(-111.000000, -109.000000)" fill="#900C21">
+            <g id="row-2-full-icons" transform="translate(6.000000, 104.000000)" sketch:type="MSShapeGroup">
+                <path d="M133.473893,10.1526793 C135.436911,7.14624394 127.094086,0.0489633883 127.094086,0.0489633883 L127.094086,7.97114073 L124.077112,9.345517 L120.957301,7.9711407 L120.957301,2.02728947 C120.957301,2.02728947 113.07154,6.93592052 115,10.1526793 C116.92846,13.3694381 120.044089,15 120.044089,15 L118.35023,44.0031815 C118.156803,47.3151329 120.693034,50 124,50 C127.313708,50 129.844121,47.3117245 129.652277,44.0031815 L127.970539,15 C127.970539,15 131.510874,13.1591147 133.473893,10.1526793 Z M124,47 C125.656854,47 127,45.6568543 127,44 C127,42.3431457 125.656854,41 124,41 C122.343146,41 121,42.3431457 121,44 C121,45.6568543 122.343146,47 124,47 Z M124,46 C125.10457,46 126,45.1045696 126,44 C126,42.8954304 125.10457,42 124,42 C122.89543,42 122,42.8954304 122,44 C122,45.1045696 122.89543,46 124,46 Z" id="wrench_F" transform="translate(124.500000, 25.000000) rotate(-45.000000) translate(-124.500000, -25.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

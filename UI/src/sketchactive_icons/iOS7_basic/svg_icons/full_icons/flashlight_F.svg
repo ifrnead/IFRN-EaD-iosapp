@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="49px" viewBox="0 0 20 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>flashlight_F</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="full-icons" sketch:type="MSLayerGroup" transform="translate(-215.000000, -500.000000)" fill-opacity="0.9" fill="#FFFFFF">
+            <g id="row-6-F" transform="translate(3.000000, 500.000000)" sketch:type="MSShapeGroup">
+                <path d="M212,0 L212,4 L232,4 L232,0 L212,0 Z M211.988604,6.00000001 C211.988604,6.00000001 232,6.00000011 232,6 C232,5.99999989 227.042933,12.0242262 227.042933,12.0242262 L227.042933,44.0366936 L216.957328,44.0366936 L216.957328,12.0242262 L211.988604,6.00000001 Z M217,46.0366936 L217,48.0366936 L227,48.0366936 L227,46.0366936 L217,46.0366936 Z M222,17 C220.343146,17 219,18.3486445 219,20.0003297 L219,23.9996703 C219,25.6567066 220.346517,27 222,27 C223.656854,27 225,25.6513555 225,23.9996703 L225,20.0003297 C225,18.3432934 223.653483,17 222,17 Z M222,26 C223.10457,26 224,25.1045696 224,24 C224,22.8954304 223.10457,22 222,22 C220.89543,22 220,22.8954304 220,24 C220,25.1045696 220.89543,26 222,26 Z" id="flashlight_F"></path>
+            </g>
+        </g>
+    </g>
+</svg>

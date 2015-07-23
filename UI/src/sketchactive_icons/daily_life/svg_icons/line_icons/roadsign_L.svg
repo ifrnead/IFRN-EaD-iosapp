@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="43px" height="48px" viewBox="0 0 43 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>roadsign_L</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="line-icons" sketch:type="MSLayerGroup" transform="translate(-502.000000, -304.000000)" fill="#900C21">
+            <g id="row-4-line-icons" transform="translate(0.000000, 302.000000)" sketch:type="MSShapeGroup">
+                <path d="M524,2 C522.895431,2 522,2.88641569 522,4.00560423 L522,8.99890137 L508.951221,8.99890137 L508.951221,17 L522,17 L522,20.8973258 L508.951221,20.8973255 C508.951221,20.8973255 502.645626,23.9334908 502.645625,24.9667454 C502.645625,26 508.951221,29.0361633 508.951221,29.0361633 L522,29.0361633 L522,48.0088733 C522,49.1085422 522.88773,50 524,50 C525.104569,50 526,49.0992101 526,48.0088733 L525.999999,29.0361633 L538.989745,29.0361633 L538.989745,20.8973255 L525.999999,20.8973255 L525.999999,17 L538.989745,17 C538.989745,17 544.813224,14.1617365 544.813224,12.968976 C544.813224,11.7762156 538.989745,8.99890137 538.989745,8.99890137 L526,8.99890137 L526,4.00560423 C526,2.8979396 525.11227,2 524,2 Z M511,11 L511,15 L538.437225,15 C538.437225,15 542.229845,13.3772957 542.229845,13 C542.229845,12.6227043 538.437225,11 538.437225,11 L511,11 Z M509,23 C509,23 505.547238,24.6774759 505.547238,25 C505.547238,25.3225241 509,27 509,27 L537,27 L537,23 L509,23 Z" id="roadsign_L"></path>
+            </g>
+        </g>
+    </g>
+</svg>

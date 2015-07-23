@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="38px" height="50px" viewBox="0 0 38 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>trash_F</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="full-icons" sketch:type="MSLayerGroup" transform="translate(-206.000000, -110.000000)" fill-opacity="0.9" fill="#FFFFFF">
+            <g id="row-2-F" transform="translate(0.000000, 99.000000)" sketch:type="MSShapeGroup">
+                <path d="M231.996,55.06 L230,54.93 L232.018,22.93 L234.014,23.06 L231.996,55.06 L231.996,55.06 L231.996,55.06 L231.996,55.06 Z M224,23 L226,23 L226,55 L224,55 L224,55 L224,23 L224,23 Z M218.049,55.06 L216.002,23.12 L217.998,22.99 L220.045,54.93 L218.049,55.06 L218.049,55.06 L218.049,55.06 L218.049,55.06 Z M218,15 C218,13.89 218.897,13 220,13 L230,13 C231.102,13 232,13.89 232,15 L232,17 L218,17 L218,15 L218,15 L218,15 L218,15 Z M234,17 L234,15 C234,12.79 232.209,11 230,11 L220,11 C217.791,11 216,12.79 216,15 L216,17 L206,17 L206,19 L208.059,19 L210.063,57 C210.063,59.2 211.854,61 214.063,61 L236.063,61 C238.272,61 240.063,59.2 240.063,57 L242.03,19 L244,19 L244,17 L234,17 L234,17 Z" id="trash_F"></path>
+            </g>
+        </g>
+    </g>
+</svg>

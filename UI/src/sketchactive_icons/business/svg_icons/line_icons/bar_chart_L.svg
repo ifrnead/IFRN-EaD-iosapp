@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="38px" height="42px" viewBox="0 0 38 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>bar_chart_L</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="line-icons" sketch:type="MSLayerGroup" transform="translate(-205.000000, -201.000000)" fill="#8B572A">
+            <g id="row-3-line-icons" transform="translate(4.000000, 197.000000)" sketch:type="MSShapeGroup">
+                <path d="M201,18 L201,42 L209,42 L209,18 L201,18 Z M203,20 L203,40 L207,40 L207,20 L203,20 Z M211,4 L211,42 L219,42 L219,4 L211,4 Z M213,6 L213,40 L217,40 L217,6 L213,6 Z M221,10 L221,42 L229,42 L229,10 L221,10 Z M223,12 L223,40 L227,40 L227,12 L223,12 Z M231,22 L231,42 L239,42 L239,22 L231,22 Z M233,24 L233,40 L237,40 L237,24 L233,24 Z M201,44 L201,46 L239,46 L239,44 L201,44 Z" id="bar_chart_L"></path>
+            </g>
+        </g>
+    </g>
+</svg>

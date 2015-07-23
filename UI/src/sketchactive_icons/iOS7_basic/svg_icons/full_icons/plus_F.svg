@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>plus_F</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="full-icons" sketch:type="MSLayerGroup" transform="translate(-300.000000, -301.000000)" fill-opacity="0.9" fill="#FFFFFF">
+            <g id="row-4-F" transform="translate(1.000000, 301.000000)" sketch:type="MSShapeGroup">
+                <path d="M323,24 L323,12 L325,12 L325,24 L337,24 L337,26 L325,26 L325,38 L323,38 L323,26 L311,26 L311,24 L323,24 Z M324,50 C337.807119,50 349,38.8071194 349,25 C349,11.1928806 337.807119,0 324,0 C310.192881,0 299,11.1928806 299,25 C299,38.8071194 310.192881,50 324,50 Z" id="plus_F"></path>
+            </g>
+        </g>
+    </g>
+</svg>

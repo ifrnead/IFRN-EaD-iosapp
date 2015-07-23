@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="40px" height="33px" viewBox="0 0 40 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>box_L</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="line-icons" sketch:type="MSLayerGroup" transform="translate(-503.000000, -110.000000)" fill="#8B572A">
+            <g id="row-2-line-icons" transform="translate(8.000000, 98.000000)" sketch:type="MSShapeGroup">
+                <path d="M495,12 C495,12 495,20.0055294 495,20.0055294 L497.994307,20.0055294 L497.994307,45 L531.998436,45 L531.998436,20.0055294 L535,20.0055294 L535,12 L495,12 Z M497,14 L497,18 L533,18 L533,14 L497,14 Z M500,20 L500,43 L530,43 L530,20 L500,20 Z M511.003351,23 C509.344646,23 508,24.3465171 508,26 C508,27.6568542 509.342379,29 511.003351,29 L518.996649,29 C520.655354,29 522,27.6534829 522,26 C522,24.3431458 520.657621,23 518.996649,23 L511.003351,23 Z M510.995398,25 C510.445655,25 510,25.4438648 510,26 C510,26.5522847 510.455664,27 510.995398,27 L519.004602,27 C519.554345,27 520,26.5561352 520,26 C520,25.4477153 519.544336,25 519.004602,25 L510.995398,25 Z" id="box_L"></path>
+            </g>
+        </g>
+    </g>
+</svg>

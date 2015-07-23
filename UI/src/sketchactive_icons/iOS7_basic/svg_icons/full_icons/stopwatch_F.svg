@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="47px" height="50px" viewBox="0 0 47 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>stopwatch_F</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="full-icons" sketch:type="MSLayerGroup" transform="translate(-299.000000, -199.000000)" fill-opacity="0.9" fill="#FFFFFF">
+            <g id="row-3-F" transform="translate(0.000000, 199.000000)" sketch:type="MSShapeGroup">
+                <path d="M323.946,29.82 L323.946,34 L321.946,34 L321.946,29.82 C320.784,29.4 319.946,28.31 319.946,27 C319.946,25.7 320.784,24.6 321.946,24.19 L321.946,11 L323.946,11 L323.946,24.19 C325.109,24.6 325.946,25.7 325.946,27 C325.946,28.31 325.109,29.4 323.946,29.82 C323.946,29.82 325.109,29.4 323.946,29.82 L323.946,29.82 L323.946,29.82 Z M339.901,11.46 L341.593,9.77 L343.308,11.48 L345.429,9.36 L340.585,4.52 L338.464,6.64 L340.179,8.36 L338.486,10.05 C334.737,6.61 329.846,4.4 324.446,4.06 L324.446,0 L321.446,0 L321.446,4.06 C309.443,4.83 299.946,14.8 299.946,27 C299.946,39.71 310.243,50 322.946,50 C335.65,50 345.946,39.71 345.946,27 C345.946,21.01 343.653,15.55 339.901,11.46 L339.901,11.46 Z" id="stopwatch_F"></path>
+            </g>
+        </g>
+    </g>
+</svg>

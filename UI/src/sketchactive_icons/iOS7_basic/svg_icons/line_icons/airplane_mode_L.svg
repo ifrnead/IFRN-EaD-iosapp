@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>airplane_mode_L</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="line-icons" sketch:type="MSLayerGroup" transform="translate(0.000000, -399.000000)" fill="#FFFFFF">
+            <g id="row-5-L" transform="translate(0.000000, 399.000000)" sketch:type="MSShapeGroup">
+                <path d="M28.6132411,26.0966641 L35.4476566,26.0966641 C36.3049922,26.096664 37,25.4100751 37,24.5498215 C37,23.695524 36.3117236,23.002979 35.4476566,23.002979 C35.4476566,23.002979 32.3549387,23.002979 28.7024588,23.002979 L28.7024588,23.002979 L22.0886236,15.0000002 L20.5406437,15.0000002 L23.5804999,23.0029791 C20.0023944,23.0029791 17.0049069,23.0029791 17.0049069,23.0029791 C17.0049069,23.0029791 15,20.9935501 15,20.9935501 C15,20.9935501 15,28.0677149 15,28.0677149 C15,28.0677149 17.0049069,26.0966642 17.0049069,26.0966642 L23.5394935,26.0966641 L20.5406437,33.9322851 L22.0886236,33.9322851 L28.6132411,26.0966641 Z M25,50 C38.8071194,50 50,38.8071194 50,25 C50,11.1928806 38.8071194,0 25,0 C11.1928806,0 0,11.1928806 0,25 C0,38.8071194 11.1928806,50 25,50 Z M25,48 C37.7025499,48 48,37.7025499 48,25 C48,12.2974501 37.7025499,2 25,2 C12.2974501,2 2,12.2974501 2,25 C2,37.7025499 12.2974501,48 25,48 Z" id="airplane_mode_L"></path>
+            </g>
+        </g>
+    </g>
+</svg>
