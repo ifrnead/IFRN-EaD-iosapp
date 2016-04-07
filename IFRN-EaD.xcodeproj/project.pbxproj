@@ -3,19 +3,19 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 47;
 	objects = {
 
 /* Begin PBXBuildFile section */
 		9D722A601B28C55F003F385F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D722A5F1B28C55F003F385F /* AppDelegate.swift */; };
 		9D722A651B28C55F003F385F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D722A631B28C55F003F385F /* Main.storyboard */; };
 		9D722A671B28C55F003F385F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D722A661B28C55F003F385F /* Images.xcassets */; };
-		9D722A6A1B28C55F003F385F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9D722A681B28C55F003F385F /* LaunchScreen.xib */; };
 		9D722A761B28C55F003F385F /* IFRN_EaDTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D722A751B28C55F003F385F /* IFRN_EaDTests.swift */; };
 		9D722A801B28C719003F385F /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D722A7F1B28C719003F385F /* WebViewController.swift */; };
 		9D722A821B28CE42003F385F /* NovidadesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D722A811B28CE42003F385F /* NovidadesViewController.swift */; };
 		9D722A841B28CEBD003F385F /* MoodleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D722A831B28CEBD003F385F /* MoodleViewController.swift */; };
 		9D722A861B28CEE9003F385F /* SuapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D722A851B28CEE9003F385F /* SuapViewController.swift */; };
+		9DC43FB31CB6219B00978E2D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DC43FB21CB6219B00978E2D /* LaunchScreen.storyboard */; };
 		9DF976741B28D1A9004F4A65 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DF976731B28D1A9004F4A65 /* MainViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -35,7 +35,6 @@
 		9D722A5F1B28C55F003F385F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9D722A641B28C55F003F385F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9D722A661B28C55F003F385F /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		9D722A691B28C55F003F385F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		9D722A6F1B28C55F003F385F /* IFRN-EaDTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "IFRN-EaDTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D722A741B28C55F003F385F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9D722A751B28C55F003F385F /* IFRN_EaDTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IFRN_EaDTests.swift; sourceTree = "<group>"; };
@@ -43,6 +42,7 @@
 		9D722A811B28CE42003F385F /* NovidadesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NovidadesViewController.swift; sourceTree = "<group>"; };
 		9D722A831B28CEBD003F385F /* MoodleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoodleViewController.swift; sourceTree = "<group>"; };
 		9D722A851B28CEE9003F385F /* SuapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SuapViewController.swift; sourceTree = "<group>"; };
+		9DC43FB21CB6219B00978E2D /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9DF976731B28D1A9004F4A65 /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -100,9 +100,9 @@
 			isa = PBXGroup;
 			children = (
 				9D722A661B28C55F003F385F /* Images.xcassets */,
-				9D722A681B28C55F003F385F /* LaunchScreen.xib */,
 				9D722A5F1B28C55F003F385F /* AppDelegate.swift */,
 				9D722A5E1B28C55F003F385F /* Info.plist */,
+				9DC43FB21CB6219B00978E2D /* LaunchScreen.storyboard */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -168,7 +168,8 @@
 		9D722A521B28C55F003F385F /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0630;
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
 				ORGANIZATIONNAME = "Allan Garcia";
 				TargetAttributes = {
 					9D722A591B28C55F003F385F = {
@@ -182,7 +183,7 @@
 				};
 			};
 			buildConfigurationList = 9D722A551B28C55F003F385F /* Build configuration list for PBXProject "IFRN-EaD" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 6.3";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -205,8 +206,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9DC43FB31CB6219B00978E2D /* LaunchScreen.storyboard in Resources */,
 				9D722A651B28C55F003F385F /* Main.storyboard in Resources */,
-				9D722A6A1B28C55F003F385F /* LaunchScreen.xib in Resources */,
 				9D722A671B28C55F003F385F /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -261,14 +262,6 @@
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		9D722A681B28C55F003F385F /* LaunchScreen.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				9D722A691B28C55F003F385F /* Base */,
-			);
-			name = LaunchScreen.xib;
-			sourceTree = "<group>";
-		};
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
@@ -293,6 +286,7 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -308,7 +302,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -346,7 +340,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
@@ -357,9 +351,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "IFRN-EaD/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.allangarcia.apps.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -369,9 +365,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "IFRN-EaD/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.allangarcia.apps.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -391,6 +389,7 @@
 				);
 				INFOPLIST_FILE = "IFRN-EaDTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.allangarcia.apps.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/IFRN-EaD.app/IFRN-EaD";
 			};
@@ -406,6 +405,7 @@
 				);
 				INFOPLIST_FILE = "IFRN-EaDTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.allangarcia.apps.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/IFRN-EaD.app/IFRN-EaD";
 			};

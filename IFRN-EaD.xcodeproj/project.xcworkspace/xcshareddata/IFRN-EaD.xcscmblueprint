@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0AF330F7C30B3BEF9556C67FE5496E79B7A9827F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6D2660224C5E4B0A9E0EB54B02471E89C653CD7F" : 0,
+    "0AF330F7C30B3BEF9556C67FE5496E79B7A9827F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8981E3A2-1D93-4D4D-9C47-5E06DFDC6DCB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6D2660224C5E4B0A9E0EB54B02471E89C653CD7F" : "IFRN-EaD",
+    "0AF330F7C30B3BEF9556C67FE5496E79B7A9827F" : "IFRN-EaD-iosapp"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "IFRN-EaD",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "IFRN-EaD.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ifrnead\/IFRN-EaD-iosapp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0AF330F7C30B3BEF9556C67FE5496E79B7A9827F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "dev0.allangarcia.com:ifrn-ead-iosapp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6D2660224C5E4B0A9E0EB54B02471E89C653CD7F"
+    }
+  ]
+}

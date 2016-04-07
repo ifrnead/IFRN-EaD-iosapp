@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="7706" systemVersion="14D136" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="Qar-YV-K51">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10116" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="Qar-YV-K51">
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
     </dependencies>
     <scenes>
         <!--Main View Controller-->
         <scene sceneID="WgJ-mX-Qx4">
             <objects>
                 <tabBarController id="Qar-YV-K51" customClass="MainViewController" customModule="IFRN_EaD" customModuleProvider="target" sceneMemberID="viewController">
-                    <nil key="simulatedBottomBarMetrics"/>
-                    <tabBar key="tabBar" contentMode="scaleToFill" translucent="NO" id="EzB-f7-D7x">
+                    <tabBar key="tabBar" contentMode="scaleToFill" id="EzB-f7-D7x">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="49"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
@@ -27,7 +27,7 @@
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="rSf-rI-18O" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-72" y="82"/>
+            <point key="canvasLocation" x="-72" y="81.999999999999986"/>
         </scene>
         <!--Novidades-->
         <scene sceneID="pLa-gX-1nr">
@@ -52,24 +52,24 @@
             <objects>
                 <viewController id="ioe-kV-Pcw" customClass="WebViewController" customModule="IFRN_EaD" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="K0F-1Q-FTT"/>
-                        <viewControllerLayoutGuide type="bottom" id="MRJ-hE-9gg"/>
+                        <viewControllerLayoutGuide type="top" id="gp7-vz-yaO"/>
+                        <viewControllerLayoutGuide type="bottom" id="mmQ-1i-Meu"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="3cC-hN-k77">
-                        <rect key="frame" x="0.0" y="0.0" width="600" height="551"/>
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <webView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Bi9-FL-sgW">
-                                <rect key="frame" x="0.0" y="0.0" width="600" height="551"/>
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                             </webView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="Bi9-FL-sgW" firstAttribute="leading" secondItem="3cC-hN-k77" secondAttribute="leading" id="EOh-EE-eh2"/>
-                            <constraint firstItem="Bi9-FL-sgW" firstAttribute="top" secondItem="3cC-hN-k77" secondAttribute="top" id="bbQ-j7-Lro"/>
-                            <constraint firstAttribute="trailing" secondItem="Bi9-FL-sgW" secondAttribute="trailing" id="oB4-yf-SgP"/>
-                            <constraint firstAttribute="bottom" secondItem="Bi9-FL-sgW" secondAttribute="bottom" id="yll-Uc-ds9"/>
+                            <constraint firstItem="Bi9-FL-sgW" firstAttribute="leading" secondItem="3cC-hN-k77" secondAttribute="leading" id="3ak-MR-EzM"/>
+                            <constraint firstAttribute="bottom" secondItem="Bi9-FL-sgW" secondAttribute="bottom" id="9gX-P0-4cM"/>
+                            <constraint firstItem="Bi9-FL-sgW" firstAttribute="top" secondItem="3cC-hN-k77" secondAttribute="top" id="atG-x1-RJ7"/>
+                            <constraint firstAttribute="trailing" secondItem="Bi9-FL-sgW" secondAttribute="trailing" id="wbG-I2-u22"/>
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="j7U-DI-Dvv">
@@ -107,7 +107,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="cjW-cQ-z8j" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="772" y="82"/>
+            <point key="canvasLocation" x="772" y="81.999999999999986"/>
         </scene>
         <!--SUAP-->
         <scene sceneID="6pL-qZ-258">
@@ -132,8 +132,8 @@
             <objects>
                 <viewController id="nVY-7M-aGU" customClass="WebViewController" customModule="IFRN_EaD" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="3xC-zN-Piy"/>
-                        <viewControllerLayoutGuide type="bottom" id="0W1-ae-y7J"/>
+                        <viewControllerLayoutGuide type="top" id="h1C-ZS-lvG"/>
+                        <viewControllerLayoutGuide type="bottom" id="QWd-Vl-7SM"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="bQB-D4-1Df">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
@@ -146,10 +146,10 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="XCv-mg-QSl" firstAttribute="leading" secondItem="bQB-D4-1Df" secondAttribute="leading" id="FAK-kK-YQ2"/>
-                            <constraint firstAttribute="bottom" secondItem="XCv-mg-QSl" secondAttribute="bottom" id="OKG-P9-eYe"/>
-                            <constraint firstAttribute="trailing" secondItem="XCv-mg-QSl" secondAttribute="trailing" id="uaw-kx-k7w"/>
-                            <constraint firstItem="XCv-mg-QSl" firstAttribute="top" secondItem="bQB-D4-1Df" secondAttribute="top" id="vA1-os-V7Z"/>
+                            <constraint firstItem="XCv-mg-QSl" firstAttribute="top" secondItem="bQB-D4-1Df" secondAttribute="top" id="490-2M-uXk"/>
+                            <constraint firstAttribute="trailing" secondItem="XCv-mg-QSl" secondAttribute="trailing" id="6dU-0G-0L2"/>
+                            <constraint firstAttribute="bottom" secondItem="XCv-mg-QSl" secondAttribute="bottom" id="F68-e6-xYQ"/>
+                            <constraint firstItem="XCv-mg-QSl" firstAttribute="leading" secondItem="bQB-D4-1Df" secondAttribute="leading" id="WoD-j4-Zfu"/>
                         </constraints>
                     </view>
                     <toolbarItems/>
@@ -178,8 +178,8 @@
             <objects>
                 <viewController id="U0j-8h-prm" customClass="WebViewController" customModule="IFRN_EaD" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="sm2-ns-gmn"/>
-                        <viewControllerLayoutGuide type="bottom" id="4bt-oQ-9Kz"/>
+                        <viewControllerLayoutGuide type="top" id="0fJ-Zf-Sq6"/>
+                        <viewControllerLayoutGuide type="bottom" id="mOs-vd-Ogq"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="jHD-ZB-395">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
@@ -192,10 +192,10 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="QHn-8B-MKh" firstAttribute="top" secondItem="jHD-ZB-395" secondAttribute="top" id="O5n-Xc-Atk"/>
-                            <constraint firstAttribute="bottom" secondItem="QHn-8B-MKh" secondAttribute="bottom" id="lsM-ft-7GP"/>
-                            <constraint firstItem="QHn-8B-MKh" firstAttribute="leading" secondItem="jHD-ZB-395" secondAttribute="leading" id="rFO-WH-El1"/>
-                            <constraint firstAttribute="trailing" secondItem="QHn-8B-MKh" secondAttribute="trailing" id="tEy-bO-lKi"/>
+                            <constraint firstItem="QHn-8B-MKh" firstAttribute="leading" secondItem="jHD-ZB-395" secondAttribute="leading" id="Wne-Sf-Azh"/>
+                            <constraint firstItem="QHn-8B-MKh" firstAttribute="top" secondItem="jHD-ZB-395" secondAttribute="top" id="XSd-f7-AJj"/>
+                            <constraint firstAttribute="bottom" secondItem="QHn-8B-MKh" secondAttribute="bottom" id="iub-Y6-9oA"/>
+                            <constraint firstAttribute="trailing" secondItem="QHn-8B-MKh" secondAttribute="trailing" id="pOh-4n-6aX"/>
                         </constraints>
                     </view>
                     <toolbarItems/>
