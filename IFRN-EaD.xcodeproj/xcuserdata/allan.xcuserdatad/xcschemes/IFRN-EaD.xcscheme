@@ -20,20 +20,6 @@
                ReferencedContainer = "container:IFRN-EaD.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9D722A6E1B28C55F003F385F"
-               BuildableName = "IFRN-EaDTests.xctest"
-               BlueprintName = "IFRN-EaDTests"
-               ReferencedContainer = "container:IFRN-EaD.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
