@@ -80,7 +80,7 @@
                         </barButtonItem>
                     </navigationItem>
                     <userDefinedRuntimeAttributes>
-                        <userDefinedRuntimeAttribute type="string" keyPath="urlToLoad" value="http://ead.ifrn.edu.br/"/>
+                        <userDefinedRuntimeAttribute type="string" keyPath="urlToLoad" value="https://ead.ifrn.edu.br/"/>
                         <userDefinedRuntimeAttribute type="string" keyPath="titleToShow" value="Novidades"/>
                     </userDefinedRuntimeAttributes>
                     <connections>
@@ -162,7 +162,7 @@
                     </navigationItem>
                     <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
                     <userDefinedRuntimeAttributes>
-                        <userDefinedRuntimeAttribute type="string" keyPath="urlToLoad" value="http://ead.ifrn.edu.br/ava/academico/"/>
+                        <userDefinedRuntimeAttribute type="string" keyPath="urlToLoad" value="https://ead.ifrn.edu.br/ava/academico/"/>
                         <userDefinedRuntimeAttribute type="string" keyPath="titleToShow" value="Moodle"/>
                     </userDefinedRuntimeAttributes>
                     <connections>
@@ -208,7 +208,7 @@
                     </navigationItem>
                     <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
                     <userDefinedRuntimeAttributes>
-                        <userDefinedRuntimeAttribute type="string" keyPath="urlToLoad" value="http://suap.ifrn.edu.br/"/>
+                        <userDefinedRuntimeAttribute type="string" keyPath="urlToLoad" value="https://suap.ifrn.edu.br/"/>
                         <userDefinedRuntimeAttribute type="string" keyPath="titleToShow" value="SUAP"/>
                     </userDefinedRuntimeAttributes>
                     <connections>
