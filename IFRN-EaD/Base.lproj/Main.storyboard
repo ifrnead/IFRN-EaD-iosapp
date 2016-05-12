@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10116" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="Qar-YV-K51">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="10117" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="Qar-YV-K51">
     <dependencies>
         <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
     </dependencies>
     <scenes>
-        <!--Main View Controller-->
+        <!--Tab Bar Controller-->
         <scene sceneID="WgJ-mX-Qx4">
             <objects>
-                <tabBarController id="Qar-YV-K51" customClass="MainViewController" customModule="IFRN_EaD" customModuleProvider="target" sceneMemberID="viewController">
+                <tabBarController id="Qar-YV-K51" sceneMemberID="viewController">
                     <tabBar key="tabBar" contentMode="scaleToFill" id="EzB-f7-D7x">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="49"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -32,8 +32,8 @@
         <!--Novidades-->
         <scene sceneID="pLa-gX-1nr">
             <objects>
-                <navigationController id="TYF-MH-uQq" customClass="NovidadesViewController" customModule="IFRN_EaD" customModuleProvider="target" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Novidades" image="novidades-line" id="WDm-TN-EQW"/>
+                <navigationController id="TYF-MH-uQq" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Novidades" image="novidades-line" selectedImage="novidades-fill" id="WDm-TN-EQW"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="dfe-GC-F4d">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -94,8 +94,8 @@
         <!--Moodle-->
         <scene sceneID="Ooc-ww-soP">
             <objects>
-                <navigationController id="Ynf-oX-hkA" customClass="MoodleViewController" customModule="IFRN_EaD" customModuleProvider="target" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Moodle" image="moodle-line" id="qMi-17-hur"/>
+                <navigationController id="Ynf-oX-hkA" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Moodle" image="moodle-line" selectedImage="moodle-fill" id="qMi-17-hur"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="Y3i-UT-9AA">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -112,8 +112,8 @@
         <!--SUAP-->
         <scene sceneID="6pL-qZ-258">
             <objects>
-                <navigationController id="5pm-OM-Uiu" customClass="SuapViewController" customModule="IFRN_EaD" customModuleProvider="target" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="SUAP" image="suap-line" id="oek-EY-PUH"/>
+                <navigationController id="5pm-OM-Uiu" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="SUAP" image="suap-line" selectedImage="suap-fill" id="oek-EY-PUH"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="K74-hx-gzC">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -221,8 +221,11 @@
         </scene>
     </scenes>
     <resources>
+        <image name="moodle-fill" width="22" height="22"/>
         <image name="moodle-line" width="22" height="22"/>
+        <image name="novidades-fill" width="21" height="22"/>
         <image name="novidades-line" width="21" height="22"/>
+        <image name="suap-fill" width="22" height="22"/>
         <image name="suap-line" width="22" height="22"/>
     </resources>
 </document>

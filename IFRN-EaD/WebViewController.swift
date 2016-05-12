@@ -32,11 +32,9 @@ class WebViewController: UIViewController, UIWebViewDelegate {
         navigationItem.leftBarButtonItem = nil
     }
     
-    @IBInspectable
-    var urlToLoad: String = "http://ead.ifrn.edu.br/"
+    @IBInspectable var urlToLoad: String = "http://ead.ifrn.edu.br/"
     
-    @IBInspectable
-    var titleToShow: String = "IFRN-EaD" {
+    @IBInspectable var titleToShow: String = "IFRN-EaD" {
         didSet {
             navigationItem.title = titleToShow
         }

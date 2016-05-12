@@ -11,11 +11,7 @@
 		9D722A651B28C55F003F385F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D722A631B28C55F003F385F /* Main.storyboard */; };
 		9D722A671B28C55F003F385F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D722A661B28C55F003F385F /* Images.xcassets */; };
 		9D722A801B28C719003F385F /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D722A7F1B28C719003F385F /* WebViewController.swift */; };
-		9D722A821B28CE42003F385F /* NovidadesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D722A811B28CE42003F385F /* NovidadesViewController.swift */; };
-		9D722A841B28CEBD003F385F /* MoodleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D722A831B28CEBD003F385F /* MoodleViewController.swift */; };
-		9D722A861B28CEE9003F385F /* SuapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D722A851B28CEE9003F385F /* SuapViewController.swift */; };
 		9DC43FB31CB6219B00978E2D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DC43FB21CB6219B00978E2D /* LaunchScreen.storyboard */; };
-		9DF976741B28D1A9004F4A65 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DF976731B28D1A9004F4A65 /* MainViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,11 +23,7 @@
 		9D722A741B28C55F003F385F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9D722A751B28C55F003F385F /* IFRN_EaDTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IFRN_EaDTests.swift; sourceTree = "<group>"; };
 		9D722A7F1B28C719003F385F /* WebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
-		9D722A811B28CE42003F385F /* NovidadesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NovidadesViewController.swift; sourceTree = "<group>"; };
-		9D722A831B28CEBD003F385F /* MoodleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MoodleViewController.swift; sourceTree = "<group>"; };
-		9D722A851B28CEE9003F385F /* SuapViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SuapViewController.swift; sourceTree = "<group>"; };
 		9DC43FB21CB6219B00978E2D /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
-		9DF976731B28D1A9004F4A65 /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,11 +58,7 @@
 			isa = PBXGroup;
 			children = (
 				9D722A631B28C55F003F385F /* Main.storyboard */,
-				9D722A811B28CE42003F385F /* NovidadesViewController.swift */,
-				9D722A831B28CEBD003F385F /* MoodleViewController.swift */,
-				9D722A851B28CEE9003F385F /* SuapViewController.swift */,
 				9D722A7F1B28C719003F385F /* WebViewController.swift */,
-				9DF976731B28D1A9004F4A65 /* MainViewController.swift */,
 				9D722A5D1B28C55F003F385F /* Supporting Files */,
 			);
 			path = "IFRN-EaD";
@@ -176,12 +164,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9D722A841B28CEBD003F385F /* MoodleViewController.swift in Sources */,
 				9D722A601B28C55F003F385F /* AppDelegate.swift in Sources */,
-				9D722A821B28CE42003F385F /* NovidadesViewController.swift in Sources */,
-				9DF976741B28D1A9004F4A65 /* MainViewController.swift in Sources */,
 				9D722A801B28C719003F385F /* WebViewController.swift in Sources */,
-				9D722A861B28CEE9003F385F /* SuapViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
